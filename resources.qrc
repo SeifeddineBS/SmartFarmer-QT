@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Desktop/ahmedqt/image/Microsoft-EP_Graphic_10.16.jpg</file>
+        <file>../../Desktop/ahmedqt/image/aze.png</file>
+    </qresource>
+</RCC>

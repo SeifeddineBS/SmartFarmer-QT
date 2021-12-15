@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/1200px-PDF_file_icon.svg.png</file>
+        <file>img/585e4adacb11b227491c3392.png</file>
+        <file>img/loupe-blanc.png</file>
+        <file>img/Microsoft-EP_Graphic_10.16.jpg</file>
+        <file>img/recherche.png</file>
+        <file>img/Sans titre - 1.jpg</file>
+        <file>img/login-rounded-right.png</file>
+        <file>img/ex.jpg</file>
+        <file>img/illustration-refresh-icon_53876-5630.jpg</file>
+        <file>img/images.png</file>
+        <file>img/loop.JPG</file>
+        <file>img/GreenCheck.jpg</file>
+        <file>img/1024px-Volkswagen_Logo_till_1995.svg.png</file>
+        <file>img/danone-logo-EE7DBAC3E9-seeklogo.com.png</file>
+        <file>img/logo_original.png</file>
+        <file>img/PRESIDENT.png</file>
+    </qresource>
+</RCC>

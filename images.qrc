@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Microsoft-EP_Graphic_10.16.jpg</file>
+        <file>images/nour.jpg</file>
+        <file>images/adem.png</file>
+        <file>images/ahmed.png</file>
+        <file>images/nizar.jpg</file>
+        <file>images/seif.jpg</file>
+        <file>images/smartfarmer.png</file>
+        <file>images/stat.jpg</file>
+    </qresource>
+</RCC>

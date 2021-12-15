@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>filesqt/formulaire.png</file>
+        <file>filesqt/maint.png</file>
+        <file>filesqt/materiel.jpg</file>
+        <file>filesqt/template.png</file>
+        <file>filesqt/copi.png</file>
+        <file>filesqt/cut.jpg</file>
+        <file>filesqt/cutt.png</file>
+        <file>filesqt/ex.jpg</file>
+        <file>filesqt/exit.png</file>
+        <file>filesqt/new.jpg</file>
+        <file>filesqt/neww.png</file>
+        <file>filesqt/open.jpg</file>
+        <file>filesqt/paste.png</file>
+        <file>filesqt/print.png</file>
+        <file>filesqt/redo.jpg</file>
+        <file>filesqt/save as.png</file>
+        <file>filesqt/save.png</file>
+        <file>filesqt/undo.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>images/nourriture.jpg</file>
+        <file>images/Sans titre - 1 (1).jpg</file>
+        <file>images/Sans titre - 1.jpg</file>
+        <file>images/youssef.jpg</file>
+    </qresource>
+    <qresource prefix="/img"/>
+    <qresource lang="aa" prefix="/img"/>
+</RCC>

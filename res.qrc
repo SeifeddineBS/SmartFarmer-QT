@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/Microsoft-EP_Graphic_10.16.jpg</file>
+        <file>img/Sans titre - 1.jpg</file>
+        <file>img/1200px-PDF_file_icon.svg.png</file>
+        <file>img/585e4adacb11b227491c3392.png</file>
+        <file>img/recherche.png</file>
+        <file>img/loupe-blanc.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/za"/>
+    <qresource prefix="/y"/>
+    <qresource prefix="/">
+        <file>images/Sans titre - 1 (1).jpg</file>
+        <file>images/Sans titre - 1.jpg</file>
+        <file>images/nourriture.jpg</file>
+        <file>images/youssef.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/thourayaIMG">
+        <file>filesqt/copi.png</file>
+        <file>filesqt/copy.jpg</file>
+        <file>filesqt/cut.jpg</file>
+        <file>filesqt/cutt.png</file>
+        <file>filesqt/ex.jpg</file>
+        <file>filesqt/exit.png</file>
+        <file>filesqt/formulaire.png</file>
+        <file>filesqt/maint.png</file>
+        <file>filesqt/materiel.jpg</file>
+        <file>filesqt/new.jpg</file>
+        <file>filesqt/neww.png</file>
+        <file>filesqt/open.jpg</file>
+        <file>filesqt/paste.png</file>
+        <file>filesqt/print.png</file>
+        <file>filesqt/redo.jpg</file>
+        <file>filesqt/save as.png</file>
+        <file>filesqt/save.png</file>
+        <file>filesqt/template.png</file>
+        <file>filesqt/undo.jpg</file>
+        <file>filesqt/notepad.JPG</file>
+        <file>filesqt/background.png</file>
+        <file>filesqt/jjjj.jpg</file>
+        <file>filesqt/images.jpg</file>
+        <file>filesqt/images.png</file>
+        <file>filesqt/illustration-refresh-icon_53876-5630.jpg</file>
+        <file>filesqt/images (1).jpg</file>
+        <file>filesqt/hhhhh.jpg</file>
+        <file>filesqt/kkkkkkkkkkk.jpg</file>
+        <file>filesqt/seif.jpg</file>
+        <file>filesqt/Microsoft-EP_Graphic_10.16.jpg</file>
+        <file>filesqt/Sans titre - 1.jpg</file>
+        <file>filesqt/seif2.jpg</file>
+        <file>filesqt/ID.png</file>
+        <file>filesqt/dateachat.png</file>
+        <file>filesqt/etat.png</file>
+        <file>filesqt/mainte.png</file>
+        <file>filesqt/type.png</file>
+        <file>filesqt/mant2.png</file>
+        <file>filesqt/note.png</file>
+        <file>filesqt/pan.png</file>
+        <file>filesqt/agent.png</file>
+        <file>filesqt/datepen.png</file>
+        <file>filesqt/tout pour la ferme.JPG</file>
+        <file>filesqt/ss.jpg</file>
+        <file>filesqt/téléchargement.png</file>
+    </qresource>
+</RCC>
